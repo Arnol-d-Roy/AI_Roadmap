@@ -8,7 +8,8 @@
       "WebFetch(domain:roadmap.sh)",
       "WebFetch(domain:opencv.org)",
       "WebFetch(domain:towardsdatascience.com)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(wc:*)"
     ]
   }
 }

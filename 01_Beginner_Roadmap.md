@@ -1,21 +1,30 @@
-# AI Engineer Learning Roadmap - Beginner Level
+# 📘 AI Engineer Learning Roadmap — Beginner Level
 
-> Foundation Phase: Python, Mathematics, Data Science Fundamentals
+> **Foundation Phase:** Python, Mathematics, Data Science Fundamentals
+>
+> *Based on [Krish Naik's Perfect Roadmap](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025), university curricula, and industry standards.*
 
-**Estimated Duration:** 2-3 months | **Time Commitment:** 20-25 hours/week | **Total Hours:** 160-200
+[![Level](https://img.shields.io/badge/Level-Beginner-brightgreen?style=flat-square)]()
+[![Duration](https://img.shields.io/badge/Duration-2--3%20Months-blue?style=flat-square)]()
+[![XP](https://img.shields.io/badge/Total%20XP-10%2C000-yellow?style=flat-square)]()
+[![Hours](https://img.shields.io/badge/Hours-160--200-orange?style=flat-square)]()
+
+```
+⚡ Progress: [░░░░░░░░░░] 0% — Let's begin!
+```
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [Prerequisites](#prerequisites)
-- [Learning Objectives](#learning-objectives)
+- [🎯 Learning Objectives](#-learning-objectives)
 - [Module 1: Python Programming Foundations](#module-1-python-programming-foundations)
 - [Module 2: Mathematics for AI](#module-2-mathematics-for-ai)
 - [Module 3: Data Manipulation & Analysis](#module-3-data-manipulation--analysis)
 - [Module 4: Data Visualization & Exploratory Data Analysis](#module-4-data-visualization--exploratory-data-analysis)
 - [Module 5: Version Control & Development Tools](#module-5-version-control--development-tools)
-- [Capstone Project](#capstone-project)
-- [Assessment Checklist](#assessment-checklist)
+- [🏆 Capstone Project](#-capstone-project)
+- [✅ Assessment Checklist](#-assessment-checklist)
 - [Next Steps](#next-steps)
 
 ---
@@ -40,7 +49,7 @@
 
 ---
 
-## Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this Beginner Roadmap, you will be able to:
 
@@ -57,11 +66,11 @@ By the end of this Beginner Roadmap, you will be able to:
 
 ## Module 1: Python Programming Foundations
 
-**Duration:** 4-5 weeks | **XP Reward:** 2,000 XP
+**Duration:** 4-5 weeks | **⚡ XP Reward:** 2,000 XP
 
 ### Week 1-2: Python Basics
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 - [ ] Python installation and setup (Anaconda, Jupyter, VS Code)
 - [ ] Variables, data types, operators
 - [ ] Strings, string methods, f-strings
@@ -71,29 +80,47 @@ By the end of this Beginner Roadmap, you will be able to:
 - [ ] Functions, lambda functions
 - [ ] Error handling (try/except)
 
-#### Resources:
+#### 📚 Resources:
 
-**Primary Course (Choose ONE):**
+<details>
+<summary><strong>Primary Course (Choose ONE)</strong></summary>
+
+- **[Krish Naik Complete Python Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)** - **HIGHLY RECOMMENDED**
+  - Comprehensive Python tutorial from basics to advanced
+  - Clear explanations with practical examples
+  - Perfect for data science preparation
+  - Time: ~15-20 hours
+
 - **[Your Udemy: Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)** - Sections 1-11
   - Time: ~20 hours
   - Focus: Interactive exercises and projects
-  - **RECOMMENDED START**: Begin here if you own this course
+  - RECOMMENDED START: Begin here if you own this course
 
-**Free Alternatives:**
+</details>
+
+<details>
+<summary><strong>Free Alternatives</strong></summary>
+
 - [Python Tutorial for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - 6 hours
 - [Python for Beginners (Microsoft)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - FREE
 - [Google's Python Class](https://developers.google.com/edu/python) - FREE with exercises
 
-**Interactive Practice:**
+</details>
+
+<details>
+<summary><strong>Interactive Practice</strong></summary>
+
 - [Python Track on Kaggle Learn](https://www.kaggle.com/learn/python) - 5 hours, FREE
 - [Exercism Python Track](https://exercism.org/tracks/python) - FREE mentored exercises
 - [HackerRank Python](https://www.hackerrank.com/domains/python) - FREE coding challenges
+
+</details>
 
 **Reference Documentation:**
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/)
 - [Real Python Tutorials](https://realpython.com/) - Excellent written tutorials
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 1. **Number Guessing Game** (50 XP)
    - User vs Computer guessing game with attempts tracking
    - Skills: Variables, loops, conditionals, functions
@@ -108,11 +135,15 @@ By the end of this Beginner Roadmap, you will be able to:
 
 **Achievement Unlocked:** 🏆 Python Initiate - Complete all Week 1-2 exercises
 
+**Progress:** `[██░░░░░░░░] 20%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ### Week 3-4: Object-Oriented Programming & Advanced Python
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 - [ ] Object-Oriented Programming (OOP) concepts
 - [ ] Classes and objects
 - [ ] Inheritance, polymorphism, encapsulation
@@ -123,21 +154,33 @@ By the end of this Beginner Roadmap, you will be able to:
 - [ ] Working with dates and times
 - [ ] Regular expressions basics
 
-#### Resources:
+#### 📚 Resources:
 
-**Primary Course:**
+<details>
+<summary><strong>Primary Course</strong></summary>
+
+- **[Krish Naik Complete Python Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)** - OOP sections
+  - Excellent coverage of OOP concepts
+  - Real-world examples
+
 - **[Your Udemy: Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)** - Sections 12-18
   - Focus on OOP sections intensively
 
-**Free Video Resources:**
+</details>
+
+<details>
+<summary><strong>Free Video Resources</strong></summary>
+
 - [Object Oriented Programming (OOP) in Python (Corey Schafer)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Excellent OOP series
 - [Python OOP Tutorial (Tech With Tim)](https://www.youtube.com/watch?v=JeznW_7DlB0) - 45 minutes
+
+</details>
 
 **Interactive Practice:**
 - [Object Oriented Programming in Python (Real Python)](https://realpython.com/python3-object-oriented-programming/)
 - Practice OOP problems on [CodeWars](https://www.codewars.com/) (Python track)
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 4. **Bank Account System** (200 XP)
    - Create Account class with deposit/withdraw/transfer methods
    - Multiple account types (Savings, Checking) using inheritance
@@ -152,11 +195,15 @@ By the end of this Beginner Roadmap, you will be able to:
 
 **Achievement Unlocked:** 🏆 OOP Master - Build complex multi-class systems
 
+**Progress:** `[████░░░░░░] 40%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ### Week 5: Python for Data Science Setup & Best Practices
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 - [ ] Jupyter Notebooks mastery
 - [ ] Google Colab setup and usage
 - [ ] NumPy basics (arrays, operations)
@@ -165,7 +212,7 @@ By the end of this Beginner Roadmap, you will be able to:
 - [ ] Writing documentation
 - [ ] Testing basics (unittest)
 
-#### Resources:
+#### 📚 Resources:
 
 **Jupyter & Colab:**
 - [Jupyter Notebook Tutorial (Corey Schafer)](https://www.youtube.com/watch?v=HW29067qVWk) - 30 minutes
@@ -178,14 +225,16 @@ By the end of this Beginner Roadmap, you will be able to:
 **Code Quality:**
 - [Writing Clean Python Code (Real Python)](https://realpython.com/python-pep8/)
 
-#### Hands-On Project:
+#### 🛠️ Hands-On Project:
 6. **Data Analysis Utilities Package** (200 XP)
    - Create reusable Python package with utilities for data analysis
    - Include functions for file reading, basic stats, data cleaning
    - Write documentation and tests
    - Skills: Modules, packages, documentation, testing
 
-**Checkpoint Assessment:**
+> **💡 Tip:** Before proceeding to Module 2, ensure you can write Python scripts with functions and classes independently. This foundation is crucial for your AI engineering journey!
+
+**✅ Checkpoint Assessment:**
 Before proceeding to Module 2, ensure you can:
 - [ ] Write Python scripts with functions and classes independently
 - [ ] Handle files (CSV, JSON) and errors gracefully
@@ -196,22 +245,26 @@ Before proceeding to Module 2, ensure you can:
 
 **Module 1 Completion:** 2,000 XP earned 🎉
 
+**Progress:** `[█████░░░░░] 50%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 2: Mathematics for AI
 
-**Duration:** 2-3 weeks | **XP Reward:** 1,500 XP
+**Duration:** 2-3 weeks | **⚡ XP Reward:** 1,500 XP
 
 ### Week 6-7: Essential Math Foundations
 
 #### Why Math Matters for AI:
-Understanding the mathematics behind AI/ML algorithms will:
-- Help you debug when models don't work
-- Enable you to read research papers
-- Allow you to customize and improve algorithms
-- Make you a better engineer, not just a library user
+> Understanding the mathematics behind AI/ML algorithms will:
+> - Help you debug when models don't work
+> - Enable you to read research papers
+> - Allow you to customize and improve algorithms
+> - Make you a better engineer, not just a library user
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **Linear Algebra:**
 - [ ] Scalars, vectors, matrices, tensors
@@ -236,14 +289,24 @@ Understanding the mathematics behind AI/ML algorithms will:
 - [ ] Hypothesis testing basics
 - [ ] Why: Understanding data, model evaluation, uncertainty
 
-#### Resources:
+#### 📚 Resources:
 
-**Visual & Intuitive (HIGHLY RECOMMENDED):**
+<details>
+<summary><strong>Visual & Intuitive (HIGHLY RECOMMENDED)</strong></summary>
+
 - [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - FREE, beautiful visualization (15 videos, ~3 hours)
 - [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - FREE (12 videos, ~3 hours)
+- **[Krish Naik Statistics in ML (43 videos)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)** - **ESSENTIAL FOR ML**
+  - Complete statistics coverage for machine learning
+  - Practical examples and intuitive explanations
+  - Covers all probability and statistics fundamentals
 - [StatQuest Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) - FREE, fun and clear (20+ videos)
 
-**Comprehensive Courses:**
+</details>
+
+<details>
+<summary><strong>Comprehensive Courses</strong></summary>
+
 - [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) - FREE audit
   - Linear Algebra course
   - Multivariate Calculus course
@@ -251,6 +314,8 @@ Understanding the mathematics behind AI/ML algorithms will:
 
 - [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) - FREE, interactive
 - [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) - FREE
+
+</details>
 
 **Books (Free PDFs):**
 - [Mathematics for Machine Learning (Deisenroth et al.)](https://mml-book.github.io/) - FREE book
@@ -260,7 +325,7 @@ Understanding the mathematics behind AI/ML algorithms will:
 - [NumPy for Linear Algebra](https://numpy.org/doc/stable/reference/routines.linalg.html)
 - Practice implementing math concepts in NumPy
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
 7. **Linear Algebra Visualizer** (200 XP)
    - Create visualizations of vector operations, transformations
@@ -273,13 +338,12 @@ Understanding the mathematics behind AI/ML algorithms will:
    - Generate random data from different distributions
    - Skills: Statistics, NumPy, SciPy
 
-**Practical Tip:**
-Don't aim for mathematical perfection. Aim for:
-- Conceptual understanding (what does it do?)
-- Intuition (why does it matter for ML?)
-- Ability to implement using NumPy (practical skill)
+> **💡 Practical Tip:** Don't aim for mathematical perfection. Aim for:
+> - Conceptual understanding (what does it do?)
+> - Intuition (why does it matter for ML?)
+> - Ability to implement using NumPy (practical skill)
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Before proceeding, ensure you understand:
 - [ ] What a matrix multiplication represents
 - [ ] How gradients relate to optimization
@@ -289,15 +353,19 @@ Before proceeding, ensure you understand:
 
 **Module 2 Completion:** 1,500 XP earned 🎉
 
+**Progress:** `[██████░░░░] 60%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 3: Data Manipulation & Analysis
 
-**Duration:** 3-4 weeks | **XP Reward:** 2,500 XP
+**Duration:** 3-4 weeks | **⚡ XP Reward:** 2,500 XP
 
 ### Week 8-10: NumPy & Pandas Mastery
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **NumPy Deep Dive:**
 - [ ] Array creation and indexing
@@ -321,20 +389,32 @@ Before proceeding, ensure you understand:
 - [ ] Time series basics
 - [ ] Data cleaning techniques
 
-#### Resources:
+#### 📚 Resources:
 
-**Primary Course:**
+<details>
+<summary><strong>Primary Course</strong></summary>
+
 - **[Your Udemy: Python for Data Science and ML Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)** - NumPy & Pandas sections
   - Sections 2-5 cover NumPy and Pandas comprehensively
 
-**Free Video Tutorials:**
+</details>
+
+<details>
+<summary><strong>Free Video Tutorials</strong></summary>
+
 - [NumPy Tutorial for Beginners (Keith Galli)](https://www.youtube.com/watch?v=QUT1VHiLmmI) - 1 hour
 - [Complete Python Pandas Data Science Tutorial (Keith Galli)](https://www.youtube.com/watch?v=vmEHCJofslg) - 1 hour
 - [Pandas for Data Analysis (Corey Schafer)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Series of videos
 
-**Interactive Learning:**
+</details>
+
+<details>
+<summary><strong>Interactive Learning</strong></summary>
+
 - [Kaggle - Pandas Course](https://www.kaggle.com/learn/pandas) - FREE, 4 hours
 - [NumPy Exercises (GitHub)](https://github.com/rougier/numpy-100) - 100 NumPy exercises
+
+</details>
 
 **Official Documentation:**
 - [NumPy Documentation](https://numpy.org/doc/)
@@ -346,7 +426,7 @@ Before proceeding, ensure you understand:
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 - [Data.gov](https://www.data.gov/) - US government open data
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
 9. **Sales Data Analyzer** (300 XP)
    - Load and clean sales dataset (CSV with missing values)
@@ -369,12 +449,9 @@ Before proceeding, ensure you understand:
     - Handle data quality issues
     - Skills: Merging, aggregation, complex calculations
 
-**Weekly Practice:**
-- Spend 1 hour daily on Kaggle datasets
-- Try to answer: "What insights can I find in this data?"
-- Document findings in Jupyter notebooks
+> **💡 Weekly Practice:** Spend 1 hour daily on Kaggle datasets. Try to answer: "What insights can I find in this data?"
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you confidently:
 - [ ] Load data from multiple formats into Pandas?
 - [ ] Clean messy data (missing values, duplicates, types)?
@@ -386,15 +463,19 @@ Can you confidently:
 
 **Module 3 Completion:** 2,500 XP earned 🎉
 
+**Progress:** `[████████░░] 75%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 4: Data Visualization & Exploratory Data Analysis
 
-**Duration:** 2-3 weeks | **XP Reward:** 2,000 XP
+**Duration:** 2-3 weeks | **⚡ XP Reward:** 2,000 XP
 
 ### Week 11-13: Visual Storytelling with Data
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **Matplotlib:**
 - [ ] Figure and axes objects
@@ -427,19 +508,36 @@ Can you confidently:
 - [ ] Feature distributions
 - [ ] Asking the right questions
 
-#### Resources:
+#### 📚 Resources:
 
-**Primary Course:**
+<details>
+<summary><strong>Primary Course</strong></summary>
+
 - **[Your Udemy: Python for Data Science and ML Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)** - Data Visualization sections
 
-**Free Video Tutorials:**
+- **Krish Naik EDA Resources:**
+  - Various EDA technique videos in his playlists
+  - Practical walkthroughs of real datasets
+  - Industry-standard EDA practices
+
+</details>
+
+<details>
+<summary><strong>Free Video Tutorials</strong></summary>
+
 - [Matplotlib Tutorial Series (Corey Schafer)](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) - 10 videos
 - [Seaborn Tutorial (Keith Galli)](https://www.youtube.com/watch?v=6GUZXDef2U0) - 1 hour
 - [Complete Plotly Tutorial (Charming Data)](https://www.youtube.com/watch?v=hEPoto5xp3k) - 1 hour
 
-**Interactive Learning:**
+</details>
+
+<details>
+<summary><strong>Interactive Learning</strong></summary>
+
 - [Kaggle - Data Visualization](https://www.kaggle.com/learn/data-visualization) - FREE, 4 hours
 - [Kaggle - Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - FREE, 4 hours
+
+</details>
 
 **Best Practices:**
 - [Data Visualization Best Practices (Kaggle)](https://www.kaggle.com/code/residentmario/best-practices-for-data-visualization)
@@ -450,7 +548,7 @@ Can you confidently:
 - [Python Graph Gallery](https://python-graph-gallery.com/) - Hundreds of chart examples
 - [Kaggle Notebooks](https://www.kaggle.com/code) - Search "EDA" for inspiration
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
 12. **Titanic Dataset EDA** (300 XP)
     - Complete exploratory analysis of Titanic dataset
@@ -475,21 +573,16 @@ Can you confidently:
     - Generate PDF report with matplotlib
     - Skills: Time series viz, Plotly, report generation
 
-**Weekly Practice:**
-- Analyze 1-2 new datasets per week from Kaggle
-- Focus on asking good questions before plotting
-- Practice the EDA workflow: Question → Analyze → Visualize → Insight
+> **💡 EDA Best Practices:**
+> 1. Start with basic questions: shape, dtypes, missing values
+> 2. Understand target variable distribution
+> 3. Check for class imbalance
+> 4. Visualize distributions of all features
+> 5. Identify correlations and relationships
+> 6. Look for outliers and anomalies
+> 7. Document insights in markdown cells
 
-**EDA Best Practices:**
-1. Start with basic questions: shape, dtypes, missing values
-2. Understand target variable distribution
-3. Check for class imbalance
-4. Visualize distributions of all features
-5. Identify correlations and relationships
-6. Look for outliers and anomalies
-7. Document insights in markdown cells
-
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Create professional-looking plots with matplotlib?
 - [ ] Use seaborn for statistical visualizations?
@@ -501,15 +594,19 @@ Can you:
 
 **Module 4 Completion:** 2,000 XP earned 🎉
 
+**Progress:** `[█████████░] 85%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 5: Version Control & Development Tools
 
-**Duration:** 1 week | **XP Reward:** 1,000 XP
+**Duration:** 1 week | **⚡ XP Reward:** 1,000 XP
 
 ### Week 14: Git, GitHub, and Professional Workflow
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **Git Basics:**
 - [ ] Git installation and configuration
@@ -535,23 +632,40 @@ Can you:
 - [ ] Code documentation
 - [ ] Jupyter notebook best practices
 
-#### Resources:
+**Bonus Database Knowledge:**
+- [ ] MongoDB basics (NoSQL)
+- [ ] MySQL fundamentals (SQL)
+- [ ] When to use SQL vs NoSQL
 
-**Git & GitHub:**
+#### 📚 Resources:
+
+<details>
+<summary><strong>Git & GitHub</strong></summary>
+
 - [Git and GitHub for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=RGOj5yH7evk) - 1 hour
 - [Git Tutorial (Corey Schafer)](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) - Video series
 - [GitHub Skills](https://skills.github.com/) - Interactive tutorials, FREE
 - [Pro Git Book](https://git-scm.com/book/en/v2) - FREE online book
 
-**Interactive Practice:**
+</details>
+
+<details>
+<summary><strong>Interactive Practice</strong></summary>
+
 - [Learn Git Branching](https://learngitbranching.js.org/) - Visual interactive tutorial
 - [GitHub Learning Lab](https://lab.github.com/) - Hands-on courses
+
+</details>
 
 **Portfolio Building:**
 - [How to Build a Data Science Portfolio (DataQuest)](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
 - [Creating a GitHub Portfolio](https://towardsdatascience.com/how-to-create-a-compelling-github-portfolio-a229e7472a92)
 
-#### Hands-On Projects:
+**Databases (Bonus):**
+- MongoDB basics tutorials
+- MySQL fundamentals tutorials
+
+#### 🛠️ Hands-On Projects:
 
 15. **Build Your Portfolio Website** (300 XP)
     - Create a GitHub Pages website showcasing your projects
@@ -566,10 +680,7 @@ Can you:
     - Add comments and documentation to code
     - Skills: Git workflow, documentation, organization
 
-**Daily Habit:**
-- [ ] Commit code daily with meaningful messages
-- [ ] Push to GitHub at end of each work session
-- [ ] Write clear commit messages (imperative: "Add feature" not "Added feature")
+> **💡 Daily Habit:** Commit code daily with meaningful messages. Push to GitHub at end of each work session.
 
 **Portfolio Checklist:**
 - [ ] GitHub profile README with introduction
@@ -579,7 +690,7 @@ Can you:
 - [ ] Requirements files for reproducibility
 - [ ] Professional formatting and organization
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Initialize a Git repository and make commits?
 - [ ] Create and push repositories to GitHub?
@@ -591,15 +702,19 @@ Can you:
 
 **Module 5 Completion:** 1,000 XP earned 🎉
 
+**Progress:** `[██████████] 95%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
-## Capstone Project
+## 🏆 Capstone Project
 
-**Duration:** 1-2 weeks | **XP Reward:** 1,000 XP
+**Duration:** 1-2 weeks | **⚡ XP Reward:** 1,000 XP
 
 ### Complete Data Analysis Project: "Industry Dataset Analysis"
 
-**Objective:** Demonstrate all beginner-level skills in one comprehensive project
+**🎯 Objective:** Demonstrate all beginner-level skills in one comprehensive project
 
 **Requirements:**
 
@@ -649,9 +764,13 @@ Can you:
 
 **Achievement Unlocked:** 🏆 Data Analyst - Complete comprehensive capstone project
 
+**Progress:** `[██████████] 100%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
-## Assessment Checklist
+## ✅ Assessment Checklist
 
 ### Technical Skills Self-Assessment
 
@@ -714,6 +833,8 @@ Before moving to Intermediate level, honestly evaluate your abilities:
 - Take on 2-3 more Kaggle datasets for practice
 - Consider peer code review or mentorship
 
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Next Steps
@@ -741,10 +862,14 @@ Before moving to Intermediate level, honestly evaluate your abilities:
 
 ### Additional Learning Resources
 
-**Books to Read (Optional):**
+<details>
+<summary><strong>Books to Read (Optional)</strong></summary>
+
 - "Python Data Science Handbook" by Jake VanderPlas (FREE online)
 - "Python for Data Analysis" by Wes McKinney (Pandas creator)
 - "Automate the Boring Stuff with Python" by Al Sweigart (FREE online)
+
+</details>
 
 **Communities to Join:**
 - [r/learnpython](https://www.reddit.com/r/learnpython/)
@@ -757,6 +882,8 @@ Before moving to Intermediate level, honestly evaluate your abilities:
 - Participate in Kaggle competitions (start with "Getting Started" comps)
 - Write technical blog posts about your learning
 - Help beginners on forums (teaching reinforces learning)
+
+[↑ Back to Top](#-table-of-contents)
 
 ---
 
@@ -799,6 +926,8 @@ Create a simple spreadsheet or use a notebook to track:
 - Projects finished
 - Concepts mastered
 
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Motivational Reminders
@@ -826,10 +955,12 @@ Create a simple spreadsheet or use a notebook to track:
 
 ---
 
-**Version:** 1.0
+**Version:** 1.1
 **Last Updated:** January 2026
 **Status:** Ready to Begin! 🚀
 
 ---
 
 **Next File:** [02_Intermediate_Roadmap.md](./02_Intermediate_Roadmap.md)
+
+[↑ Back to Top](#-table-of-contents)
