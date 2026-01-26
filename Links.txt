@@ -1,0 +1,24 @@
+Roadmap links:
+https://www.youtube.com/watch?v=ILrYwyPd1Dc
+https://www.youtube.com/watch?v=zwUSZD3t_BU
+https://www.youtube.com/watch?v=qQ51dksl1gA
+https://www.youtube.com/watch?v=JDhezqsG_Jo
+https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025?tab=readme-ov-file
+
+
+Relevant course links I already have:
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5760236?start=0#overview
+https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/learn/lecture/12257454?start=0#overview
+https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/30482598?start=0#overview
+https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/learn/lecture/16487638?start=0#overview
+https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/20662938?start=0#overview
+https://www.udemy.com/course/deeplearning/learn/lecture/6743222?start=0#overview
+
+
+
+AI course links: 
+https://www.youtube.com/watch?v=tN4Ocq5oGHw
+https://www.youtube.com/watch?v=OOO_x3Oh2nE
+
+
+

@@ -4,7 +4,11 @@
       "WebSearch",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:www.youtube.com)",
-      "Bash(du:*)"
+      "Bash(du:*)",
+      "WebFetch(domain:roadmap.sh)",
+      "WebFetch(domain:opencv.org)",
+      "WebFetch(domain:towardsdatascience.com)",
+      "Bash(ls:*)"
     ]
   }
 }
