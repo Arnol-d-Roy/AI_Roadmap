@@ -1,22 +1,31 @@
-# AI Engineer Learning Roadmap - Advanced Level
+# 🚀 AI Engineer Learning Roadmap — Advanced Level
 
-> Cutting-Edge AI: LLMs, Generative AI, RAG, AI Agents & Production Systems
+> **Cutting-Edge AI:** LLMs, Generative AI, RAG, AI Agents & Production Systems
+>
+> *Master the latest AI technologies and build cutting-edge applications*
 
-**Estimated Duration:** 3-4 months | **Time Commitment:** 20-25 hours/week | **Total Hours:** 240-320
+[![Level](https://img.shields.io/badge/Level-Advanced-red?style=flat-square)]()
+[![Duration](https://img.shields.io/badge/Duration-3--4%20Months-blue?style=flat-square)]()
+[![XP](https://img.shields.io/badge/Total%20XP-27%2C500-yellow?style=flat-square)]()
+[![Hours](https://img.shields.io/badge/Hours-240--320-orange?style=flat-square)]()
+
+```
+⚡ Progress: [░░░░░░░░░░] 0% — Welcome to the frontier!
+```
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [Prerequisites](#prerequisites)
-- [Learning Objectives](#learning-objectives)
+- [🎯 Learning Objectives](#-learning-objectives)
 - [Module 12: Transformers & Large Language Models](#module-12-transformers--large-language-models)
 - [Module 13: Generative AI](#module-13-generative-ai)
 - [Module 14: Retrieval Augmented Generation (RAG)](#module-14-retrieval-augmented-generation-rag)
 - [Module 15: AI Agents & LangChain](#module-15-ai-agents--langchain)
 - [Module 16: Advanced MLOps & Production Systems](#module-16-advanced-mlops--production-systems)
 - [Module 17: Specialization Tracks](#module-17-specialization-tracks)
-- [Master Capstone Project](#master-capstone-project)
-- [Assessment Checklist](#assessment-checklist)
+- [🏆 Master Capstone Project](#-master-capstone-project)
+- [✅ Assessment Checklist](#-assessment-checklist)
 - [Career Preparation](#career-preparation)
 
 ---
@@ -46,7 +55,7 @@ Return to [02_Intermediate_Roadmap.md](./02_Intermediate_Roadmap.md) and complet
 
 ---
 
-## Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this Advanced Roadmap, you will be able to:
 
@@ -68,11 +77,11 @@ By the end of this Advanced Roadmap, you will be able to:
 
 ## Module 12: Transformers & Large Language Models
 
-**Duration:** 4-5 weeks | **XP Reward:** 4,000 XP
+**Duration:** 4-5 weeks | **⚡ XP Reward:** 4,000 XP
 
 ### Week 1-2: Transformer Architecture & Attention Mechanisms
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **Transformer Fundamentals:**
 - [ ] Attention mechanism deep dive
@@ -94,26 +103,38 @@ By the end of this Advanced Roadmap, you will be able to:
 - [ ] "BERT: Pre-training of Deep Bidirectional Transformers" (Devlin et al., 2018)
 - [ ] "Language Models are Few-Shot Learners" (GPT-3 paper, Brown et al., 2020)
 
-#### Resources:
+#### 📚 Resources:
 
-**Visual & Intuitive Understanding:**
+<details>
+<summary><strong>Visual & Intuitive Understanding</strong></summary>
+
 - [The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer/) - **START HERE**
 - [Attention Mechanism (StatQuest)](https://www.youtube.com/watch?v=PSs6nxngL6k)
 - [Transformers from Scratch (Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
-**University Courses:**
+</details>
+
+<details>
+<summary><strong>University Courses</strong></summary>
+
 - [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) - **HIGHLY RECOMMENDED**
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Later lectures on transformers
 
-**Hands-On Tutorials:**
+</details>
+
+<details>
+<summary><strong>Hands-On Tutorials</strong></summary>
+
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - FREE, comprehensive
 - [Transformers Tutorial (Hugging Face)](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
 - [Building GPT from Scratch (Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY) - 2+ hours, **EXCELLENT**
 
+</details>
+
 **Interactive Learning:**
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Line-by-line implementation
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
 1. **Build Transformer from Scratch** (500 XP)
    - Implement attention mechanism in PyTorch
@@ -138,11 +159,15 @@ By the end of this Advanced Roadmap, you will be able to:
 
 **Achievement Unlocked:** 🏆 Transformer Architect - Master attention mechanisms
 
+**Progress:** `[██░░░░░░░░] 15%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ### Week 3-5: Working with Large Language Models
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **LLM APIs:**
 - [ ] OpenAI API (GPT-4, GPT-3.5)
@@ -181,31 +206,55 @@ By the end of this Advanced Roadmap, you will be able to:
 - [ ] Content moderation
 - [ ] Creative writing assistance
 
-#### Resources:
+#### 📚 Resources:
 
-**LLM Courses:**
+<details>
+<summary><strong>LLM Courses</strong></summary>
+
 - [LLM Bootcamp (Full Stack Deep Learning)](https://fullstackdeeplearning.com/llm-bootcamp/) - FREE
 - [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - FREE
 - [Building Systems with ChatGPT (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) - FREE
 
-**Prompt Engineering:**
+</details>
+
+<details>
+<summary><strong>Prompt Engineering</strong></summary>
+
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Comprehensive resource
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Learn Prompting](https://learnprompting.org/) - FREE course
 
-**Working with LLMs:**
+</details>
+
+<details>
+<summary><strong>Working with LLMs</strong></summary>
+
+- **[Krish Naik LangChain OpenAI Tutorials](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)** - **ESSENTIAL**
+  - Complete LangChain and OpenAI integration
+  - Practical implementations
+  - Industry-focused approach
 - [Hugging Face Transformers Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 - [LLM Applications Tutorial (freeCodeCamp)](https://www.youtube.com/watch?v=HSZ_uaif57o)
 - [Ollama Tutorial - Run LLMs Locally](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
+
+</details>
 
 **Research & Best Practices:**
 - [Papers With Code - NLP](https://paperswithcode.com/area/natural-language-processing)
 - [Anthropic Claude Documentation](https://docs.anthropic.com/)
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
-4. **AI Writing Assistant** (500 XP)
+4. **LangChain OpenAI Chatbot** (550 XP)
+   - Build intelligent chatbot using LangChain
+   - OpenAI API integration
+   - Conversation memory
+   - Multiple chat modes
+   - Deploy with Streamlit
+   - Skills: LangChain, OpenAI, chatbot development
+
+5. **AI Writing Assistant** (500 XP)
    - Multiple writing modes (blog, email, story)
    - Use GPT-4/Claude API
    - Advanced prompt engineering
@@ -213,7 +262,7 @@ By the end of this Advanced Roadmap, you will be able to:
    - Web interface with Streamlit
    - Skills: LLM APIs, prompt engineering, full-stack
 
-5. **Code Review Bot** (550 XP)
+6. **Code Review Bot** (550 XP)
    - Automated code review using LLMs
    - Detect bugs, security issues, style problems
    - Suggest improvements
@@ -221,7 +270,7 @@ By the end of this Advanced Roadmap, you will be able to:
    - Support multiple languages
    - Skills: LLMs for code, GitHub API, automation
 
-6. **Data Extraction from Documents** (500 XP)
+7. **Data Extraction from Documents** (500 XP)
    - Extract structured data from unstructured text
    - PDF/image support (OCR + LLM)
    - JSON schema output
@@ -229,20 +278,16 @@ By the end of this Advanced Roadmap, you will be able to:
    - High accuracy validation
    - Skills: LLMs, document processing, structured output
 
-7. **Local LLM Application with Ollama** (450 XP)
+8. **Local LLM Application with Ollama** (450 XP)
    - Run Llama 2 or Mistral locally
    - Create chat interface
    - Compare performance with cloud APIs
    - System resource monitoring
    - Skills: Local LLM deployment, optimization
 
-**Weekly Practice:**
-- Experiment with 10+ different prompt strategies
-- Compare outputs from different LLMs
-- Read 2 research papers on LLMs
-- Participate in AI safety discussions
+> **💡 Weekly Practice:** Experiment with 10+ different prompt strategies. Compare outputs from different LLMs. Read 2 research papers on LLMs. Participate in AI safety discussions.
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Explain transformer architecture components?
 - [ ] Use Hugging Face transformers effectively?
@@ -254,15 +299,19 @@ Can you:
 
 **Module 12 Completion:** 4,000 XP earned 🎉
 
+**Progress:** `[████░░░░░░] 30%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 13: Generative AI
 
-**Duration:** 3-4 weeks | **XP Reward:** 3,500 XP
+**Duration:** 3-4 weeks | **⚡ XP Reward:** 3,500 XP
 
 ### Week 6-9: Image Generation, GANs & Diffusion Models
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **Generative Adversarial Networks (GANs):**
 - [ ] GAN architecture (generator + discriminator)
@@ -298,55 +347,71 @@ Can you:
 - [ ] Voice cloning basics
 - [ ] Music generation (intro)
 
-#### Resources:
+#### 📚 Resources:
 
-**GANs:**
+<details>
+<summary><strong>GANs</strong></summary>
+
 - [GANs Explained (Computerphile)](https://www.youtube.com/watch?v=Sw9r8CL98N0)
 - [GAN Tutorial (PyTorch)](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 - [StyleGAN Paper](https://arxiv.org/abs/1812.04948)
 
-**Diffusion Models:**
+</details>
+
+<details>
+<summary><strong>Diffusion Models</strong></summary>
+
 - [Diffusion Models Explained (Ari Seff)](https://www.youtube.com/watch?v=344w5h24-h8) - Clear explanation
 - [Stable Diffusion Deep Dive](https://www.youtube.com/watch?v=J87hffSMB60)
 - [Hugging Face Diffusers Course](https://huggingface.co/docs/diffusers/index) - Hands-on
 
-**Stable Diffusion Practical:**
+</details>
+
+<details>
+<summary><strong>Stable Diffusion Practical</strong></summary>
+
 - [Stable Diffusion Tutorial (Automatic1111)](https://www.youtube.com/watch?v=DHaL56P6f5M)
 - [LoRA Training Guide](https://www.youtube.com/watch?v=mfaqqL5yOO4)
 - [ControlNet Tutorial](https://www.youtube.com/watch?v=vhqqmMi5ApM)
 
-**Multi-Modal:**
+</details>
+
+<details>
+<summary><strong>Multi-Modal</strong></summary>
+
 - [CLIP Paper and Tutorial](https://openai.com/research/clip)
 - [GPT-4 Vision API Tutorial](https://platform.openai.com/docs/guides/vision)
+
+</details>
 
 **Generative AI Roadmap:**
 - [Generative AI Roadmap 2026 (Scaler)](https://www.scaler.com/blog/generative-ai-roadmap/) - Comprehensive guide
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
-8. **Face Generator with GAN** (500 XP)
+9. **Face Generator with GAN** (500 XP)
    - Train DCGAN on face dataset (CelebA)
    - Generate realistic faces
    - Latent space exploration
    - Style mixing experiments
    - Skills: GANs, PyTorch, generative modeling
 
-9. **Text-to-Image Application** (600 XP)
-   - Use Stable Diffusion API or local
-   - Advanced prompt engineering
-   - Image-to-image transformations
-   - ControlNet for pose/depth guidance
-   - Web interface with gallery
-   - Skills: Diffusion models, prompt engineering, deployment
+10. **Text-to-Image Application** (600 XP)
+    - Use Stable Diffusion API or local
+    - Advanced prompt engineering
+    - Image-to-image transformations
+    - ControlNet for pose/depth guidance
+    - Web interface with gallery
+    - Skills: Diffusion models, prompt engineering, deployment
 
-10. **Custom Stable Diffusion Model** (650 XP)
+11. **Custom Stable Diffusion Model** (650 XP)
     - Fine-tune Stable Diffusion with LoRA/DreamBooth
     - Train on custom dataset (art style, product photos)
     - Optimize for quality and speed
     - Deploy for inference
     - Skills: Fine-tuning, optimization, deployment
 
-11. **AI-Powered Image Editor** (600 XP)
+12. **AI-Powered Image Editor** (600 XP)
     - Inpainting and outpainting
     - Background removal
     - Style transfer
@@ -354,7 +419,7 @@ Can you:
     - Combined into one app
     - Skills: Multiple generative models, integration
 
-12. **Multi-Modal Search Engine** (550 XP)
+13. **Multi-Modal Search Engine** (550 XP)
     - Text-to-image and image-to-text search
     - Use CLIP embeddings
     - Vector similarity search
@@ -364,7 +429,7 @@ Can you:
 
 **Achievement Unlocked:** 🏆 Generative AI Master - Create AI-generated content
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Explain how GANs and diffusion models work?
 - [ ] Generate high-quality images with Stable Diffusion?
@@ -375,15 +440,19 @@ Can you:
 
 **Module 13 Completion:** 3,500 XP earned 🎉
 
+**Progress:** `[██████░░░░] 45%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 14: Retrieval Augmented Generation (RAG)
 
-**Duration:** 3-4 weeks | **XP Reward:** 4,000 XP
+**Duration:** 3-4 weeks | **⚡ XP Reward:** 4,000 XP
 
 ### Week 10-13: Vector Databases, Embeddings & RAG Systems
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **Embeddings:**
 - [ ] Text embeddings deep dive
@@ -424,32 +493,44 @@ Can you:
 - [ ] LangChain retrieval
 - [ ] Haystack
 
-#### Resources:
+#### 📚 Resources:
 
-**RAG Fundamentals:**
+<details>
+<summary><strong>RAG Fundamentals</strong></summary>
+
 - [RAG Explained (IBM Technology)](https://www.youtube.com/watch?v=T-D1OfcDW1M) - Clear introduction
 - [Building RAG from Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8) - Deep dive
 - [Advanced RAG Techniques](https://www.youtube.com/watch?v=PaQzX1k5zLQ)
 
-**Courses:**
+</details>
+
+<details>
+<summary><strong>Courses</strong></summary>
+
 - [LangChain for LLM Application Development (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - FREE
 - [LangChain: Chat with Your Data (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) - FREE
 - [Retrieval Augmented Generation (DataCamp)](https://www.datacamp.com/courses/retrieval-augmented-generation-rag-with-langchain)
 - [RAG with LlamaIndex & LangChain (Activeloop)](https://learn.activeloop.ai/courses/rag) - Comprehensive
 
-**Vector Databases:**
+</details>
+
+<details>
+<summary><strong>Vector Databases</strong></summary>
+
 - [Pinecone Tutorial](https://docs.pinecone.io/docs/quickstart)
 - [ChromaDB Tutorial](https://docs.trychroma.com/getting-started)
 - [FAISS Tutorial](https://www.youtube.com/watch?v=sKyvsdEv6rk)
+
+</details>
 
 **Practical Guides:**
 - [LlamaIndex Documentation](https://docs.llamaindex.ai/)
 - [LangChain RAG Tutorial](https://python.langchain.com/docs/use_cases/question_answering/)
 - [Building Production RAG (Full Stack Deep Learning)](https://fullstackdeeplearning.com/)
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
-13. **Document Q&A System** (600 XP)
+14. **Document Q&A System** (600 XP)
     - Upload PDFs and ask questions
     - Chunking, embedding, vector storage
     - RAG with GPT-4/Claude
@@ -457,7 +538,7 @@ Can you:
     - Web interface
     - Skills: RAG pipeline, document processing, LLMs
 
-14. **Company Knowledge Base Chatbot** (700 XP)
+15. **Company Knowledge Base Chatbot** (700 XP)
     - Internal documentation search
     - Multiple document types (PDF, Word, web pages)
     - Metadata filtering (department, date, type)
@@ -465,7 +546,7 @@ Can you:
     - Analytics dashboard
     - Skills: Advanced RAG, multi-format, analytics
 
-15. **Code Repository Assistant** (650 XP)
+16. **Code Repository Assistant** (650 XP)
     - Chat with your codebase
     - Semantic code search
     - Code explanation and documentation
@@ -473,14 +554,14 @@ Can you:
     - GitHub integration
     - Skills: Code embeddings, RAG for code, tools
 
-16. **Research Paper Analysis Tool** (600 XP)
+17. **Research Paper Analysis Tool** (600 XP)
     - Semantic search across papers (arXiv)
     - Summarization and key findings extraction
     - Citation network visualization
     - Compare multiple papers
     - Skills: Academic RAG, summarization, visualization
 
-17. **Multi-Modal RAG System** (700 XP)
+18. **Multi-Modal RAG System** (700 XP)
     - Text + image retrieval
     - CLIP embeddings for images
     - Combined text-image search
@@ -488,7 +569,7 @@ Can you:
     - Skills: Multi-modal embeddings, hybrid RAG
 
 **Advanced Challenge:**
-18. **Production RAG with Evaluation** (800 XP)
+19. **Production RAG with Evaluation** (800 XP)
     - Complete RAG system with all optimizations
     - Evaluation framework (retrieval accuracy, answer quality)
     - A/B testing different strategies
@@ -496,13 +577,9 @@ Can you:
     - Cost optimization
     - Skills: Production RAG, evaluation, monitoring
 
-**Weekly Practice:**
-- Experiment with different chunking strategies
-- Compare vector databases for your use case
-- Test different embedding models
-- Evaluate RAG quality systematically
+> **💡 Weekly Practice:** Experiment with different chunking strategies. Compare vector databases for your use case. Test different embedding models. Evaluate RAG quality systematically.
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Build complete RAG pipelines from scratch?
 - [ ] Choose appropriate vector databases?
@@ -515,15 +592,19 @@ Can you:
 
 **Module 14 Completion:** 4,000 XP earned 🎉
 
+**Progress:** `[████████░░] 60%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 15: AI Agents & LangChain
 
-**Duration:** 3-4 weeks | **XP Reward:** 4,500 XP
+**Duration:** 3-4 weeks | **⚡ XP Reward:** 4,500 XP
 
 ### Week 14-17: Agentic AI & Autonomous Systems
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **AI Agent Fundamentals:**
 - [ ] What are AI agents?
@@ -568,37 +649,57 @@ Can you:
 - [ ] Error handling in tool use
 - [ ] Tool selection strategies
 
-#### Resources:
+#### 📚 Resources:
 
-**Agent Fundamentals:**
+<details>
+<summary><strong>Agent Fundamentals</strong></summary>
+
 - [AI Agents Explained (IBM)](https://www.youtube.com/watch?v=F8NKVhkZZWI)
 - [ReAct Paper and Tutorial](https://arxiv.org/abs/2210.03629)
 - [LLM Agent Survey Paper](https://arxiv.org/abs/2309.07864)
 
-**LangChain Courses:**
+</details>
+
+<details>
+<summary><strong>LangChain Courses</strong></summary>
+
+- **[Krish Naik LangChain OpenAI Tutorials](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)** - **ESSENTIAL**
+  - Complete LangChain implementation guide
+  - OpenAI integration
+  - Practical agent building
 - [LangChain for LLM Application Development (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - FREE
 - [Functions, Tools and Agents with LangChain (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/) - FREE
 - [LangChain Official Documentation](https://python.langchain.com/docs/get_started/introduction)
 - [LangChain Tutorials (YouTube)](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
-**LangGraph:**
+</details>
+
+<details>
+<summary><strong>LangGraph</strong></summary>
+
 - [LangGraph Tutorial](https://www.youtube.com/watch?v=wd7TZ4w1mSw)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [Building Agents with LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) - FREE
 
-**Multi-Agent Systems:**
+</details>
+
+<details>
+<summary><strong>Multi-Agent Systems</strong></summary>
+
 - [CrewAI Tutorial](https://www.youtube.com/watch?v=tnejrr-0a94)
 - [CrewAI Documentation](https://docs.crewai.com/)
 - [AutoGen Tutorial](https://microsoft.github.io/autogen/)
 - [Multi-Agent AI Systems (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - FREE
 
+</details>
+
 **Function Calling:**
 - [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
 - [Function Calling Tutorial](https://www.youtube.com/watch?v=0-zlUy7VUjg)
 
-#### Hands-On Projects:
+#### 🛠️ Hands-On Projects:
 
-19. **Personal Research Assistant Agent** (700 XP)
+20. **Personal Research Assistant Agent** (700 XP)
     - Autonomous web search and synthesis
     - Multiple tool use (search, scraping, summarization)
     - Multi-step reasoning
@@ -606,7 +707,7 @@ Can you:
     - Memory of past research
     - Skills: LangChain agents, tool use, reasoning
 
-20. **Data Analysis Agent** (750 XP)
+21. **Data Analysis Agent** (750 XP)
     - Natural language to data insights
     - Pandas code generation and execution
     - Visualization creation
@@ -614,7 +715,7 @@ Can you:
     - Interactive chat interface
     - Skills: Code execution, data analysis, agents
 
-21. **Customer Service Multi-Agent System** (850 XP)
+22. **Customer Service Multi-Agent System** (850 XP)
     - Multiple specialized agents (greeter, support, escalation)
     - Agent handoffs and collaboration
     - Memory and context sharing
@@ -622,7 +723,7 @@ Can you:
     - Analytics and quality monitoring
     - Skills: Multi-agent, CrewAI, production systems
 
-22. **Travel Planning Agent** (700 XP)
+23. **Travel Planning Agent** (700 XP)
     - Flight, hotel, activity recommendations
     - Budget optimization
     - Multi-API integration (travel APIs)
@@ -630,7 +731,7 @@ Can you:
     - Itinerary generation
     - Skills: Complex tool use, planning, optimization
 
-23. **Code Review Agent** (800 XP)
+24. **Code Review Agent** (800 XP)
     - Automated PR review
     - Multiple review aspects (bugs, style, security, tests)
     - Suggestion generation
@@ -638,7 +739,7 @@ Can you:
     - Learning from feedback
     - Skills: Code analysis, multi-step agents, GitHub
 
-24. **Autonomous Blog Writer** (750 XP)
+25. **Autonomous Blog Writer** (750 XP)
     - Research topic via web search
     - Outline generation
     - Content creation with citations
@@ -648,7 +749,7 @@ Can you:
     - Skills: Multi-agent, content generation, automation
 
 **Advanced Challenge:**
-25. **General Purpose AI Assistant** (1000 XP)
+26. **General Purpose AI Assistant** (1000 XP)
     - Handles diverse tasks (research, coding, analysis, scheduling)
     - Learns user preferences
     - Proactive suggestions
@@ -656,13 +757,9 @@ Can you:
     - Production deployment
     - Skills: Advanced agents, personalization, full-stack
 
-**Weekly Practice:**
-- Build mini-agents for daily tasks
-- Experiment with different agent frameworks
-- Study agent failure modes and safety
-- Read agent-related research papers
+> **💡 Weekly Practice:** Build mini-agents for daily tasks. Experiment with different agent frameworks. Study agent failure modes and safety. Read agent-related research papers.
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Design and implement AI agents with LangChain?
 - [ ] Create custom tools for agents?
@@ -676,15 +773,19 @@ Can you:
 
 **Module 15 Completion:** 4,500 XP earned 🎉
 
+**Progress:** `[█████████░] 75%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Module 16: Advanced MLOps & Production Systems
 
-**Duration:** 3-4 weeks | **XP Reward:** 3,500 XP
+**Duration:** 3-4 weeks | **⚡ XP Reward:** 3,500 XP
 
 ### Week 18-21: Production ML & MLOps at Scale
 
-#### Topics to Master:
+#### 🎯 Topics to Master:
 
 **MLOps Foundations:**
 - [ ] ML lifecycle management
@@ -699,11 +800,13 @@ Can you:
 - [ ] API frameworks (FastAPI, Flask)
 - [ ] Containerization (Docker advanced)
 - [ ] Orchestration (Kubernetes basics)
+- [ ] Kubeflow for ML workflows
 - [ ] Serverless ML (AWS Lambda, Google Cloud Functions)
 - [ ] Edge deployment
 
 **CI/CD for ML:**
 - [ ] GitHub Actions for ML
+- [ ] CircleCI for automated pipelines
 - [ ] Automated testing for ML
 - [ ] Model validation pipelines
 - [ ] Automated retraining
@@ -711,11 +814,16 @@ Can you:
 
 **Monitoring & Observability:**
 - [ ] Model performance monitoring
-- [ ] Data drift detection
+- [ ] Data drift detection (Evidently AI)
 - [ ] Model drift detection
 - [ ] Alerting systems
 - [ ] Logging best practices
 - [ ] Prometheus and Grafana for ML
+
+**Workflow Orchestration:**
+- [ ] Apache Airflow for ML pipelines
+- [ ] Kubeflow Pipelines
+- [ ] Prefect for workflow management
 
 **Scaling ML Systems:**
 - [ ] Batch vs real-time inference
@@ -738,45 +846,76 @@ Can you:
 - [ ] Cost monitoring for LLMs
 - [ ] Rate limiting and queuing
 
-#### Resources:
+#### 📚 Resources:
 
-**MLOps Courses:**
+<details>
+<summary><strong>MLOps Courses</strong></summary>
+
 - [ML Engineering for Production (Andrew Ng)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) - FREE, comprehensive
 - [MLOps Course (Made with ML)](https://madewithml.com/) - FREE, production-focused
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/) - Industry best practices
 
-**Experiment Tracking:**
+</details>
+
+<details>
+<summary><strong>Experiment Tracking</strong></summary>
+
 - [MLflow Tutorial](https://mlflow.org/docs/latest/tutorials-and-examples/tutorial.html)
 - [Weights & Biases Tutorial](https://www.youtube.com/watch?v=gnD8BFuyVUA)
 - [DVC Tutorial](https://dvc.org/doc/start)
 
-**Deployment:**
+</details>
+
+<details>
+<summary><strong>Deployment</strong></summary>
+
 - [FastAPI for ML Tutorial](https://www.youtube.com/watch?v=1zMQBe0l1bM)
 - [TensorFlow Serving Guide](https://www.tensorflow.org/tfx/guide/serving)
 - [Docker for ML Engineers](https://www.youtube.com/watch?v=0qG_0CPQhpg)
 - [Kubernetes for ML](https://www.youtube.com/watch?v=w8GpqX_qWJk)
 
-**Monitoring:**
+</details>
+
+<details>
+<summary><strong>Monitoring & Orchestration</strong></summary>
+
 - [ML Model Monitoring (Evidently AI)](https://www.evidentlyai.com/)
 - [Data Drift Detection Tutorial](https://www.youtube.com/watch?v=Db06ggTIUO4)
 - [LangSmith for LLM Observability](https://docs.smith.langchain.com/)
+- [Apache Airflow Tutorial](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html)
+- [Kubeflow Documentation](https://www.kubeflow.org/docs/)
+- [Grafana for ML Monitoring](https://grafana.com/docs/grafana/latest/)
 
-**Cloud ML:**
+</details>
+
+<details>
+<summary><strong>Cloud ML</strong></summary>
+
 - [AWS SageMaker Tutorial](https://www.youtube.com/watch?v=uQc8Itd4UTs)
 - [Google Vertex AI Tutorial](https://www.youtube.com/watch?v=vfS-fAy7QdU)
 
-#### Hands-On Projects:
+</details>
 
-26. **Complete MLOps Pipeline** (800 XP)
+#### 🛠️ Hands-On Projects:
+
+27. **Complete MLOps Pipeline** (800 XP)
     - End-to-end ML pipeline with MLflow
     - Experiment tracking
     - Model registry
     - Automated training on new data
-    - CI/CD with GitHub Actions
-    - Monitoring dashboard
+    - CI/CD with GitHub Actions or CircleCI
+    - Monitoring dashboard with Grafana
     - Skills: MLflow, CI/CD, automation, monitoring
 
-27. **Production LLM Application** (900 XP)
+28. **AWS SageMaker Implementation** (900 XP)
+    - Deploy ML model on AWS SageMaker
+    - Complete pipeline from training to inference
+    - Auto-scaling configuration
+    - Cost optimization
+    - Monitoring and logging
+    - Skills: AWS, SageMaker, cloud deployment
+
+29. **Production LLM Application** (900 XP)
     - RAG or agent application
     - FastAPI backend
     - LangSmith observability
@@ -786,15 +925,23 @@ Can you:
     - A/B testing different prompts
     - Skills: Production LLM, observability, optimization
 
-28. **Model Monitoring System** (700 XP)
+30. **Model Monitoring System with Evidently AI** (700 XP)
     - Monitor deployed model performance
     - Data drift detection
     - Automated retraining triggers
     - Alert system (email/Slack)
     - Dashboard with Grafana
-    - Skills: Monitoring, drift detection, alerting
+    - Skills: Monitoring, drift detection, Evidently AI, alerting
 
-29. **Multi-Model Serving Platform** (850 XP)
+31. **ML Workflow Orchestration with Airflow** (750 XP)
+    - Apache Airflow for ML pipelines
+    - Automated data processing
+    - Model training workflows
+    - Deployment automation
+    - Error handling and retries
+    - Skills: Workflow orchestration, Airflow, automation
+
+32. **Multi-Model Serving Platform** (850 XP)
     - Serve multiple models via single API
     - Model versioning and routing
     - Load balancing
@@ -802,9 +949,9 @@ Can you:
     - Performance metrics
     - Skills: Model serving, orchestration, scaling
 
-**Achievement Unlocked:** 🏆 MLOps Engineer - Deploy production ML systems
+**Achievement Unlocked:** 🏆 MLOps Engineer - Deploy production ML systems at scale
 
-**Checkpoint Assessment:**
+**✅ Checkpoint Assessment:**
 Can you:
 - [ ] Build complete ML pipelines with tracking?
 - [ ] Deploy models to production reliably?
@@ -813,14 +960,19 @@ Can you:
 - [ ] Detect and handle drift?
 - [ ] Optimize model serving for performance?
 - [ ] Use cloud ML platforms effectively?
+- [ ] Orchestrate complex ML workflows?
 
 **Module 16 Completion:** 3,500 XP earned 🎉
+
+**Progress:** `[██████████] 90%`
+
+[↑ Back to Top](#-table-of-contents)
 
 ---
 
 ## Module 17: Specialization Tracks
 
-**Duration:** 2-3 weeks | **XP Reward:** 3,000 XP
+**Duration:** 2-3 weeks | **⚡ XP Reward:** 3,000 XP
 
 **Choose ONE specialization track to dive deep:**
 
@@ -942,15 +1094,19 @@ Can you:
 
 **Module 17 Completion:** 3,000 XP earned 🎉
 
+**Progress:** `[██████████] 95%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
-## Master Capstone Project
+## 🏆 Master Capstone Project
 
-**Duration:** 3-4 weeks | **XP Reward:** 5,000 XP
+**Duration:** 3-4 weeks | **⚡ XP Reward:** 5,000 XP
 
 ### Build a Cutting-Edge AI System
 
-**Objective:** Create a comprehensive, production-ready AI application that demonstrates mastery of advanced AI techniques.
+**🎯 Objective:** Create a comprehensive, production-ready AI application that demonstrates mastery of advanced AI techniques.
 
 **Project Options:**
 
@@ -1002,8 +1158,8 @@ Can you:
 - [ ] Security best practices
 
 **MLOps & Engineering:**
-- [ ] CI/CD pipeline
-- [ ] Monitoring and observability
+- [ ] CI/CD pipeline (GitHub Actions/CircleCI)
+- [ ] Monitoring and observability (Evidently AI/Grafana)
 - [ ] Cost tracking
 - [ ] Scalable architecture
 - [ ] Documentation (technical and user)
@@ -1085,9 +1241,13 @@ Can you:
 
 **Achievement Unlocked:** 🏆 Master AI Engineer - Build world-class AI system
 
+**Progress:** `[██████████] 100%`
+
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
-## Assessment Checklist
+## ✅ Assessment Checklist
 
 ### Advanced Skills Mastery
 
@@ -1127,6 +1287,7 @@ Can you:
 - [ ] I understand cloud ML platforms
 - [ ] I can optimize for cost and performance
 - [ ] I handle model versioning systematically
+- [ ] I can orchestrate complex workflows
 
 **Specialization:**
 - [ ] I have deep expertise in at least one AI domain
@@ -1155,20 +1316,28 @@ Can you:
 - Comfortable with interviews and technical discussions
 - Understand business value of AI projects
 
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Career Preparation
 
 ### Job Search Strategy
 
-**Resume Optimization:**
+<details>
+<summary><strong>Resume Optimization</strong></summary>
+
 - Highlight production AI projects
 - Quantify impact (performance, cost savings, users)
 - Include relevant technologies and frameworks
 - Link to GitHub and portfolio
 - Keep to 1-2 pages, prioritize recent work
 
-**Portfolio Website:**
+</details>
+
+<details>
+<summary><strong>Portfolio Website</strong></summary>
+
 - Professional design
 - Featured projects with case studies
 - About section with your story
@@ -1176,7 +1345,11 @@ Can you:
 - Contact information and social links
 - Fast loading, mobile responsive
 
-**LinkedIn Optimization:**
+</details>
+
+<details>
+<summary><strong>LinkedIn Optimization</strong></summary>
+
 - Professional headline: "AI Engineer | LLMs, RAG, Computer Vision"
 - Detailed experience with projects
 - Skills endorsements (request from peers)
@@ -1184,13 +1357,19 @@ Can you:
 - Regular posts about AI learnings
 - Engage with AI content
 
-**GitHub Profile:**
+</details>
+
+<details>
+<summary><strong>GitHub Profile</strong></summary>
+
 - Pinned repositories showcasing best work
 - Consistent contribution history
 - Well-documented README files
 - Active on open-source projects
 - Profile README with introduction
 - Follow industry leaders
+
+</details>
 
 ### Job Application Process
 
@@ -1237,25 +1416,37 @@ Can you:
 
 ### Continuous Learning
 
-**Stay Current:**
+<details>
+<summary><strong>Stay Current</strong></summary>
+
 - Follow AI researchers on Twitter/X
 - Subscribe to AI newsletters (The Batch, TLDR AI)
 - Watch conference talks (NeurIPS, ICML, CVPR)
 - Read Papers With Code weekly
 - Listen to AI podcasts (Lex Fridman, TWIML)
 
-**Communities:**
-- r/MachineLearning
+</details>
+
+<details>
+<summary><strong>Communities</strong></summary>
+
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 - Hugging Face Discord
 - LangChain Discord
 - Local AI meetups
 - Conference attendance
 
-**Certifications (Optional):**
+</details>
+
+<details>
+<summary><strong>Certifications (Optional)</strong></summary>
+
 - TensorFlow Developer Certificate
 - AWS ML Specialty
 - Google Professional ML Engineer
 - Azure AI Engineer
+
+</details>
 
 **Advanced Topics to Explore:**
 - Federated learning
@@ -1264,6 +1455,8 @@ Can you:
 - AI safety and alignment
 - Quantum machine learning
 - Brain-computer interfaces
+
+[↑ Back to Top](#-table-of-contents)
 
 ---
 
@@ -1333,6 +1526,8 @@ You've completed the Advanced AI Engineer Roadmap! You now have:
 - [OpenAI Blog](https://openai.com/blog)
 - [Google AI Blog](https://ai.googleblog.com/)
 
+[↑ Back to Top](#-table-of-contents)
+
 ---
 
 ## Final Thoughts
@@ -1356,18 +1551,21 @@ Build amazing things. Solve hard problems. Help people with AI.
 
 **Achievement Unlocked:** 🏆 **MASTER AI ENGINEER** - Complete Advanced Roadmap
 
-**Total XP Earned:** 27,500 XP across all 3 levels
+**Total XP Earned:** 27,500 XP across Advanced level
+**Combined Journey XP:** 59,000 XP (Beginner + Intermediate + Advanced)
 
 **You did it!** 🎉🎊🎈
 
 ---
 
-**Version:** 1.0
+**Version:** 1.1
 **Last Updated:** January 2026
 **Status:** Master Level Complete! 🏆
 
 **Previous:** [02_Intermediate_Roadmap.md](./02_Intermediate_Roadmap.md)
 **Roadmap Start:** [01_Beginner_Roadmap.md](./01_Beginner_Roadmap.md)
+
+[↑ Back to Top](#-table-of-contents)
 
 ---
 
@@ -1381,6 +1579,7 @@ This Advanced Roadmap incorporates insights from:
 - [Best Free AI Courses 2026 (Nucamp)](https://www.nucamp.co/blog/best-free-ai-courses-and-learning-resources-in-2026-curated-list)
 - [ML-YouTube-Courses (GitHub)](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Complete RoadMap To Learn AI (Krish Naik)](https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI)
+- [Krish Naik's Perfect Roadmap](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025)
 - DeepLearning.AI short courses
 - Latest AI research from arXiv and Papers With Code
 - Industry best practices from production AI systems
