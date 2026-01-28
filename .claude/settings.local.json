@@ -9,7 +9,9 @@
       "WebFetch(domain:opencv.org)",
       "WebFetch(domain:towardsdatascience.com)",
       "Bash(ls:*)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nUpdate advanced roadmap with Krish Naik resources and beautification\n\n- Added Krish Naik LangChain OpenAI tutorials to Modules 12 and 15\n- Added CircleCI, Kubeflow, Evidently AI, Apache Airflow to Module 16\n- Added new projects: Model Monitoring with Evidently AI, ML workflow orchestration\n- Applied beautification: emoji headers, badges, collapsible sections, progress bars, back-to-top links\n- Updated Links.txt with new roadmap references\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
